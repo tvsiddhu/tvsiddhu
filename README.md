@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tvsiddhu
 - 👀 I’m interested in all things Data and Cybersecurity related
 - 🌱 I’m enjoy coding in python and very occasionally practice CTF/bug bounty
-- 🩶 I love implementing GRC, SDLC, IT Risk management processes and practices (all the dirty rotten boring stuff true programmers hate)
+- 🩶 I love implementing Project Governance models, GRC policies, SDLC methodologies, IT Risk management processes, practices and controls (all the dirty rotten boring stuff true programmers hate)
 - 🐾 My track record is built on delivering large complex projects successfully and rescuing those that are failing 😰
 
 <!---
